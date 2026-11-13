@@ -42,7 +42,7 @@ I chose this as an end-to-end practice project analyzing Walmart's weekly sales 
 - Investigate the extreme high-sales weeks behind the right skew, such as which stores, departments, and time periods drive them, since those weeks explain the gap between the median and average week.
 
 ## About Me
-I spent over 11 years in the American Red Cross Bio-Medical Division, where I specialized in data entry, compliance, and FDA audit preparation. I'm now completing an MBA in Finance and transitioning into data analytics, using Excel, SQL, and Tableau to clean, analyze, and present data that helps organizations make informed decisions and uncover what's really driving their results. I'm targeting roles in financial, healthcare, and compliance analytics.
+I spent over 11 years in the American Red Cross Bio-Medical Division, where I specialized in data entry, compliance, and FDA audit preparation. I earned the Google Data Analytics Professional Certificate in May 2026, and I'm now completing an MBA in Finance while transitioning into data analytics, using Excel, SQL, and Tableau to clean, analyze, and present data that helps organizations make informed decisions and uncover what's really driving their results. I'm targeting roles in financial, healthcare, and compliance analytics.
 
 ---
 *All data cleaning, SQL queries, and Tableau visualizations were completed by me. README editing was assisted by Claude (Anthropic).*
